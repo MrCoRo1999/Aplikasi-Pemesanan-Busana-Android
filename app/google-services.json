@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629050923383",
+    "project_id": "jahitin-a95cf",
+    "storage_bucket": "jahitin-a95cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629050923383:android:b9bd93a116746271666972",
+        "android_client_info": {
+          "package_name": "com.app.penjahit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5A-U2-i1xEDeX3w7glI9A1OaDqTOOYJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
